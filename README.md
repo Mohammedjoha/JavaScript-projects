@@ -1,10 +1,11 @@
 # JavaScript Projects
 
-This repository is for my JavaScript assignments and projects as I work through my course.
+This is where I keep the projects I've worked on while learning JavaScript.
+
 ## My Projects
 
 ### Portfolio Website
-A personal website created using HTML, CSS, and JavaScript. It includes a button that displays a welcome message.
+I made a portfolio website using HTML, CSS, and JavaScript. It shows some of my projects and has a button that displays a welcome message.
 
 ### JavaScript Practice
-Exercises completed while learning JavaScript, including functions, variables, and basic programming concepts.
+I learned how to use variables and functions and practiced writing simple JavaScript code.
